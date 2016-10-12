@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBConsole", "VBConsole\VBConsole.vbproj", "{607F0597-93C3-46EE-8563-57D22E390C7C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calculator", "Calculator\Calculator.vbproj", "{F17CFF5C-FDC5-4A11-9B08-7A81C307F0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607F0597-93C3-46EE-8563-57D22E390C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607F0597-93C3-46EE-8563-57D22E390C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607F0597-93C3-46EE-8563-57D22E390C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607F0597-93C3-46EE-8563-57D22E390C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17CFF5C-FDC5-4A11-9B08-7A81C307F0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17CFF5C-FDC5-4A11-9B08-7A81C307F0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17CFF5C-FDC5-4A11-9B08-7A81C307F0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17CFF5C-FDC5-4A11-9B08-7A81C307F0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
